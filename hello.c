@@ -11,5 +11,7 @@ int main()
 
 	printf("%d\n", (a+b));
 
+	printf("%s\n", "Testing");
+
 	return 0;
 }
